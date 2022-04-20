@@ -12,6 +12,7 @@ const app = new Vue({
     el: "#app",
 
     data:{
-        text: "Ciao mamma guarda come mi diverto" //Stampare a schermo un messaggio all’interno di un h1, utilizzando i data.
+        text: "Ciao mamma guarda come mi diverto", //Stampare a schermo un messaggio all’interno di un h1, utilizzando i data.
+        image: "https://picsum.photos/200"
     }
 })
